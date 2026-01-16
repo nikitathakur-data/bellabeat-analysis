@@ -57,7 +57,7 @@ By analyzing these behavioral patterns, Bellabeat can identify opportunities to 
 ## Tableau Dashboard
 Interactive dashboard showcasing key insights and trends:  
 🔗 Tableau Public Link:  
-[PASTE YOUR TABLEAU LINK HERE](https://public.tableau.com/app/profile/nikita.thakur5830/viz/BellabeatUserActivityEngagementAnalysis/Dashboard1)
+https://public.tableau.com/app/profile/nikita.thakur5830/viz/BellabeatUserActivityEngagementAnalysis/Dashboard1
 
 ---
 ## Notes
