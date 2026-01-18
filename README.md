@@ -38,6 +38,21 @@ By analyzing these behavioral patterns, Bellabeat can identify opportunities to 
 
 ---
 
+## Analysis Summary 
+
+### 1. Average Daily Steps & Activity Levels
+Calculated average daily steps per user and categorized users into low, moderate, and high activity levels to understand overall engagement patterns. 
+
+### 2. Logging Frequency
+Measured how consistently users recorded activity by calculating the percentage of days each user logged data out of the total dataset duration. Most users showed moderate consistency, indicating uneven engagement.
+
+### 3. Activity Intensity Distribution
+Analyzed average minutes spent in sedentary, lightly active, and very active states to identify dominant behavior patterns.
+
+### 4. Calories vs. Steps
+Explored the relationship between daily step counts and calories burned, revealing wide variation in calories burned even at similar step levels.
+
+
 ## Key Insights
 - High-activity users take far more daily steps than other groups
 - Sedentary minutes dominate daily activity, highlighting an opportunity for habit-building features and movement-focused nudges
